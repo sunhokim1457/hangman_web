@@ -65,7 +65,7 @@ HANGMANPICS = ['''
 
 
 def loadWordList():
-    words = ["hangman", "programmers", "data", "engineering", "datawarehouse", "engineer"]
+    words = ["hangman", "programmers", "data", "engineering", "datawarehouse", "pipeline"]
     """
     try:
         conn = pymysql.connect(host='localhost',
